@@ -1,0 +1,17 @@
+name: cfa
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - numpy
+  - pandas
+  - textblob
+  - matplotlib
+  - scikit-learn
+  - imbalanced-learn
+  - requests
+  - gensim
+  - wordcloud
+  - seaborn
+
